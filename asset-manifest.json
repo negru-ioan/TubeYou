@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TubeYou/static/css/main.dab0f418.css",
-    "main.js": "/TubeYou/static/js/main.a2f0fe78.js",
+    "main.css": "/TubeYou/static/css/main.501f57ff.css",
+    "main.js": "/TubeYou/static/js/main.07c6261d.js",
     "index.html": "/TubeYou/index.html",
-    "main.dab0f418.css.map": "/TubeYou/static/css/main.dab0f418.css.map",
-    "main.a2f0fe78.js.map": "/TubeYou/static/js/main.a2f0fe78.js.map"
+    "main.501f57ff.css.map": "/TubeYou/static/css/main.501f57ff.css.map",
+    "main.07c6261d.js.map": "/TubeYou/static/js/main.07c6261d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab0f418.css",
-    "static/js/main.a2f0fe78.js"
+    "static/css/main.501f57ff.css",
+    "static/js/main.07c6261d.js"
   ]
 }
